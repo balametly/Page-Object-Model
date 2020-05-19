@@ -1,0 +1,6 @@
+sampletest\GooglTest.class
+com\crm\qa\test\ContactsPageTest.class
+com\crm\qa\test\HomePageTest.class
+com\crm\qa\test\LoginPageTest.class
+com\crm\qa\test\CalendarPageTest.class
+com\crm\qa\test\DealsPageTest.class
